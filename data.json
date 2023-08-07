@@ -1,0 +1,26 @@
+{
+  "deliveryOptions": [
+    {
+      "type": "standard",
+      "additional_charge": 10
+    },
+    {
+      "type": "express",
+      "additional_charge": 25
+    },
+    {
+      "type": "fastest",
+      "additional_charge": 50
+    }
+  ],
+  "paymentModes": [
+    {
+      "type": "prepaid",
+      "discount_percentage": 10
+    },
+    {
+      "type": "cashOnDelivery",
+      "discount_percentage": 0
+    }
+  ]
+}
